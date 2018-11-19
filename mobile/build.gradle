@@ -32,4 +32,5 @@ dependencies {
     //https://github.com/dingjikerbo/BluetoothKit
     api 'com.inuker.bluetooth:library:1.4.0'
     implementation 'com.github.tbruyelle:rxpermissions:0.10.2'
+    implementation 'org.greenrobot:eventbus:3.1.1'
 }

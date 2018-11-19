@@ -1,4 +1,4 @@
-package com.junmeng.bttv;
+package com.junmeng.bttv.util;
 
 import android.graphics.Bitmap;
 import android.media.MediaMetadataRetriever;

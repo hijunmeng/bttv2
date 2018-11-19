@@ -1,4 +1,4 @@
-package com.junmeng.bttv;
+package com.junmeng.bttv.app;
 
 import android.app.Application;
 
